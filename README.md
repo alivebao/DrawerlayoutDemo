@@ -1,3 +1,3 @@
-Demo of DrawerLayout
+![close](close.jpeg)  
+  
 ![open](open.jpeg)
-![close](close.jpeg)
