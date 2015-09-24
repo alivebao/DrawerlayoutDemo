@@ -1,3 +1,1 @@
-![close](close.jpeg)  
-  
-![open](open.jpeg)
+![close](close.jpeg)        ![open](open.jpeg)
